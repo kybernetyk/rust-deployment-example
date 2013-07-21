@@ -4,5 +4,6 @@ A little example how to link a rust binary so it can be deployed to other OS X s
 
 Check out build.sh for the magic.
 
+(Written for Rust 0.7)
 
-License: GPL3, Leon Szpilewsk
+License: GPL3, Leon Szpilewski
